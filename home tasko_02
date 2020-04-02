@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<table border="1"> 
+ <tr>
+     <th>ID</th>
+     <th>Full name</th>
+     <th>age</th>
+     <th>hobbies</th>
+ </tr>
+ <tr>
+     <td>5441515151</td>
+     <td>Yaakov</td>
+     <td>24</td>
+     <td>football</td>
+ </tr>
+ <tr>
+     <td>1151651651</td>
+     <td>Shalev</td>
+     <td>32</td>
+     <td>ride a hourse</td>
+     <tr>
+         <td>51515151</td>
+         <td>amitay</td>
+         <td>13</td>
+         <td>watch tv</td>
+     </tr>
+
+ </tr>
+</table>    
+</body>
+</html>
